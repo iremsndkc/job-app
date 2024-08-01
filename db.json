@@ -1,0 +1,202 @@
+{
+  "jobs": [
+    {
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "bae91102-6657-4f0e-a84d-82828e352efe",
+      "date": 1712607012428
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "id": "d87a9143-58b7-4c65-b0ae-fa18add8c921",
+      "date": 1712307002424
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": 1715607078538
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577
+    },
+    {
+      "id": "9ee5155f-0984-4c16-9f6a-90712facfb78",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1720550896851
+    },
+    {
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552344626
+    },
+    {
+      "id": "730a6fb7-f00a-4696-b344-f1bd39ef2b20",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1720552364242
+    },
+    {
+      "id": "ad6fad18-8a7a-4309-85f9-7fa937b841e0",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1720552656225
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "336e87e4-e8b0-4e29-87a5-2962f6249b32",
+      "date": 1720632154668
+    },
+    {
+      "id": "f82f5ac5-197a-4544-8673-88309696bdbf",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358637374
+    },
+    {
+      "id": "c1974829-e2b8-48e8-803f-10f5ccb01676",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358638885
+    },
+    {
+      "id": "cbf6bcc3-56d0-4c8d-885b-9760f3eff7f7",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358677085
+    },
+    {
+      "id": "888daf2c-cbe0-4bfb-b4b5-ab7705eda414",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358692663
+    },
+    {
+      "id": "7d58744b-33e8-4a66-bba5-a19f747323f1",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358692704
+    },
+    {
+      "id": "f8cedd0a-a04e-4872-9186-ed49b668a412",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722358817966
+    },
+    {
+      "id": "98cf44e2-18bd-4ee1-9944-2b44477d9fef",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1722359829497
+    },
+    {
+      "id": "f71ff285-3d46-4b73-baac-dc04fe57769f",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1722359850311
+    },
+    {
+      "id": "c098a90e-8d22-41c9-a56b-e746ed78ad8b",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1722360106225
+    },
+    {
+      "id": "07b058a2-b8f1-4174-b57a-394139a909b9",
+      "position": "Marketing Manager",
+      "company": "udemig",
+      "location": "istanbul",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": 1722360685132
+    },
+    {
+      "id": "f33e1022-0eb8-4c80-af70-e53dfe55c8f1",
+      "position": "Marketing Manager",
+      "company": "IBM",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1722367362486
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+.submit-btn{
+    background-color: #171717;
+    padding: 1em 2em;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.submit-btn span:not(:nth-child(6)){
+    position: absolute;
+    background-color: #e244a0;
+    width: 30px;
+    height: 30px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+.submit-btn span:nth-child(1) {
+    transform: translate(-53px, -64px);
+}
+.submit-btn span:nth-child(2) {
+    transform: translate(-96px, -20px);
+}
+.submit-btn span:nth-child(3) {
+    transform: translate(56px, 29px);
+}
+.submit-btn span:nth-child(4) {
+    transform: translate(56px, 22px);
+}
+.submit-btn span:nth-child(5) {
+    transform: translate(16px, -60px);
+}
+.submit-btn span:nth-child(6) {
+    position: relative;
+}
+.submit-btn:hover span:not(:nth-child(6)) {
+    transform: translate(-50%, -50%) scale(4);
+    transition: 1.5s ease;
+}
+
+// dellbutton
+.bin-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid white;
+    position: relative;
+    background-color: black;
+    overflow: hidden;
+    transition: all 0.4s;
+}
+.bin-bottom{
+    width: 12px;
+    z-index: 2;
+}
+.bin-top{
+    width: 14px;
+    z-index: 2;
+    transform-origin: right;
+}
+.bin-button:hover .bin-top{
+    transform: rotate(50deg);
+}
+.bin-button:hover{
+    background: #ff0000;
+}
+.bin-button:active{
+    transform: scale(0.80);
+}
+.garbage{
+    position: absolute;
+    width: 12px;
+    height: auto;
+    opacity: 0;
+    z-index: 1;
+}
+.bin-button:hover .garbage{
+    animation: throw 0.4s linear;
+}
+@keyframes throw{
+    from{
+        transform: translate(-400%,-700%);
+        opacity: 0;
+    }
+    to{
+        transform: translate(0%,0%);
+        opacity: 1;
+    }
+}
+
+.button {
+    width: 150px;
+    border: none;
+    font-size: 15px;
+    background-color: #e244a0;
+    cursor: pointer;
+    padding-bottom: 3px;
+    transform: rotate(5deg);
+    border-radius: 5px;
+    transition: all 0.3s;
+  }
+  .button span {
+    background: white;
+    display: block;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 2px solid #493a4b;
+  }
+  .button:active {
+    transform: translateY(5px);
+    padding-bottom: 0;
+    transition: all 0.3s;
+  }
