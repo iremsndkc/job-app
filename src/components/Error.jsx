@@ -1,5 +1,4 @@
-const Error = () => {
-  const Error = ({ message, retry }) => {
+const Error = () => { ({ message, retry }) => {
     return (
       <div className="error">
         <p>Üzgünüz verilere erişirken bir hata oluştu</p>
